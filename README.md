@@ -1,4 +1,4 @@
-# Simple-Data-Base
+# Data_Base_Prototype
 
 Storage of Date-Event pairs
 
